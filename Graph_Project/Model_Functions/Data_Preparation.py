@@ -341,7 +341,7 @@ def prepare_hdf5_graphs(dir_path="",
             
 
 def pdb_cif_to_pandas_dataframe(path='/projects2/common/DATA/alphafold_data/pdb_mmcif/mmcif_files/1jtg.cif'):
-"""
+    """
         Convert any .cif file to a pandas format
  
         Outputs :
@@ -350,7 +350,7 @@ def pdb_cif_to_pandas_dataframe(path='/projects2/common/DATA/alphafold_data/pdb_
         Args:
         
             - path to .cif file that needs to be converted
-"""            
+    """            
     pdb = pd.read_fwf(path)
     col_names = ['group_PDB', 'id', 'element', 'name', 'label_alt_id', 'resname', 'chain',
              'label_entity_id', 'label_seq_id', 'pdbx_PDB_ins_code','x','y','z', 'occupancy', 'tempfactor',
