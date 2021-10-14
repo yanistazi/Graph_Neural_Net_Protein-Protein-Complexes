@@ -27,3 +27,4 @@ optimizer selection; possibility to train from scratch/resume training/transfer 
 - hyperparameter gridsearch exploration
 - use pretrained model as a feature embedding
 - deeper version of Edge + Node attention network
+- energy scoring functions
