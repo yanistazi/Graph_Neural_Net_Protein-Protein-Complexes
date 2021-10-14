@@ -1,8 +1,12 @@
 # Graph Neural Network + Attention mechanism to predict scoring functions (i-RMSD) for protein complexes and decoys.
 
 ## Installation :
+
 Make sure to create a dedicated environment as follow :
-<conda env create --name <YOUR_ENV_NAME> --file=environment_graph_predictions.yml>
+
+```
+conda env create --name <YOUR_ENV_NAME> --file=environment_graph_predictions.yml
+```
 
 ## Tutorial for the data preparation, gridsearch training , testing and inference are available in this repository
 ![alt text](images/graph_intro.png?raw=true "Title")
