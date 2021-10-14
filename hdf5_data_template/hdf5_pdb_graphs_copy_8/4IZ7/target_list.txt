@@ -1,0 +1,4 @@
+4IZ7_water_complex_256w 13.518
+4IZ7_it0_complex_6952 17.006
+4IZ7_it1_complex_192 14.571
+4IZ7 0

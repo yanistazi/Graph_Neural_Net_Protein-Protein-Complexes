@@ -1,0 +1,11 @@
+2GTP_water_complex_70w 18.937
+2GTP_it0_complex_6996 13.479
+2GTP_it0_complex_4389 18.646
+2GTP_it0_complex_5735 13.736
+2GTP_it0_complex_9699 14.601
+2GTP_it0_complex_282 3.95
+2GTP_it0_complex_9317 4.109
+2GTP_it0_complex_9498 3.856
+2GTP_it0_complex_1010 2.596
+2GTP_it1_complex_115 18.944
+2GTP 0

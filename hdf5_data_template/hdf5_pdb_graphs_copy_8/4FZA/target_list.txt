@@ -1,0 +1,4 @@
+4FZA_water_complex_312w 14.939
+4FZA_it0_complex_7915 13.463
+4FZA_it1_complex_194 13.947
+4FZA 0

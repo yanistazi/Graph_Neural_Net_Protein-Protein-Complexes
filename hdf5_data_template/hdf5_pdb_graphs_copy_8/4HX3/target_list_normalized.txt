@@ -1,0 +1,4 @@
+4HX3_water_complex_88w 0.88545
+4HX3_it0_complex_8991 0.7807000000000001
+4HX3_it1_complex_130 0.8313
+4HX3 0

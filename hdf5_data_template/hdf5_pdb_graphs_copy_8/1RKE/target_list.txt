@@ -1,0 +1,8 @@
+1RKE_water_complex_357w 18.759
+1RKE_water_complex_336w 14.729
+1RKE_water_complex_306w 4.952
+1RKE_water_complex_149w 4.898
+1RKE_it0_complex_7720 13.666
+1RKE_it1_complex_219 8.217
+1RKE_it1_complex_149 4.961
+1RKE 0

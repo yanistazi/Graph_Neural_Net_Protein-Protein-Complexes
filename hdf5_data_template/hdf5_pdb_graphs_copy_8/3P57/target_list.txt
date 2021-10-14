@@ -1,0 +1,4 @@
+3P57_water_complex_299w 17.295
+3P57_it0_complex_2270 13.491
+3P57_it1_complex_352 19.622
+3P57 0

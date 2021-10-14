@@ -1,0 +1,4 @@
+3S9D_water_complex_172w 16.175
+3S9D_it0_complex_3922 17.103
+3S9D_it1_complex_72 16.55
+3S9D 0

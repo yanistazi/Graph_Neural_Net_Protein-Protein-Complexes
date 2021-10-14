@@ -1,0 +1,4 @@
+4M76_water_complex_392w 0.92365
+4M76_it0_complex_2817 0.97895
+4M76_it1_complex_217 0.859
+4M76 0

@@ -1,0 +1,4 @@
+3SZK_water_complex_203w 17.099
+3SZK_it0_complex_1827 19.593
+3SZK_it1_complex_320 17.723
+3SZK 0

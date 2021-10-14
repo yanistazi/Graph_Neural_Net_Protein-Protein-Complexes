@@ -1,0 +1,27 @@
+edge_feature ['dist']
+node_feature ['type', 'polarity', 'bsa', 'pos', 'chain', 'charge']
+batch_size 1024
+target scoring_normalized
+task reg
+shuffle True
+lr 0.001
+percent [1.0, 0.0]
+threshold 10
+list_complexes ['1RKE']
+database_eval ['/bgfs01/insite02/yanis.tazi/data/graph_project_data/hdf5_replicates/hdf5_pdb_graphs_copy_7/BAAD/residues.hdf5']
+outdir /bgfs01/insite/yanis.tazi/Scoring_Project/Graph_Project/output_directory_tutorial/gridsearch/8/
+neuralnet_arch <class 'deeprank_gnn.foutnet.FoutNet'>
+nepoch 50
+save_model best
+save_epoch intermediate
+save_every 5
+plot_every 5
+plot_name plot_loss
+optimizer_name RMSprop
+pretrained_model None
+train_using_pretrained_model False
+epoch_start 0
+keep_latest_saved_models 5
+keep_latest_saved_plots 5
+database_train ['/bgfs01/insite02/yanis.tazi/data/graph_project_data/hdf5_replicates/hdf5_pdb_graphs_copy_7/1RKE/residues.hdf5']
+dir_path /bgfs01/insite02/yanis.tazi/data/graph_project_data/hdf5_replicates/hdf5_pdb_graphs_copy_7/

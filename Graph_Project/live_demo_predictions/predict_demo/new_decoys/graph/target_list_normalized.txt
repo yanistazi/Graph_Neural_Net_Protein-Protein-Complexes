@@ -1,0 +1,3 @@
+3hmx.1.AB_08766_irmsd_10.13 0
+3hmx.1.AB_00740_irmsd_1.35 0
+3hmx.1.AB_07145_irmsd_5.85 0

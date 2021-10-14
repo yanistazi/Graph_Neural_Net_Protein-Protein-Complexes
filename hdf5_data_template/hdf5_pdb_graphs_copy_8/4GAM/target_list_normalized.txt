@@ -1,0 +1,4 @@
+4GAM_water_complex_181w 0.9103
+4GAM_it0_complex_8711 0.9228500000000001
+4GAM_it1_complex_293 0.999
+4GAM 0

@@ -1,0 +1,4 @@
+BAAD_water_complex_315w 0.95425
+BAAD_it0_complex_8167 0.9659000000000001
+BAAD_it1_complex_315 0.954
+BAAD 0

@@ -1,0 +1,11 @@
+3R9A_water_complex_57w 19.845
+3R9A_it0_complex_810 16.501
+3R9A_it0_complex_3327 17.397
+3R9A_it0_complex_9392 13.918
+3R9A_it0_complex_5616 15.43
+3R9A_it0_complex_4919 4.499
+3R9A_it0_complex_4775 4.067
+3R9A_it0_complex_166 4.038
+3R9A_it0_complex_1902 3.635
+3R9A_it1_complex_98 19.416
+3R9A 0

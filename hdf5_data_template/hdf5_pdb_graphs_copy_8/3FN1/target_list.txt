@@ -1,0 +1,4 @@
+3FN1_water_complex_382w 17.718
+3FN1_it0_complex_7010 13.959
+3FN1_it1_complex_392 12.786
+3FN1 0

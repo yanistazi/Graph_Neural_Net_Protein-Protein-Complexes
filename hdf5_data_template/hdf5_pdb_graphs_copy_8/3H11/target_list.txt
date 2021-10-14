@@ -1,0 +1,4 @@
+3H11_water_complex_6w 19.482
+3H11_it0_complex_1622 19.476
+3H11_it1_complex_380 8.287
+3H11 0

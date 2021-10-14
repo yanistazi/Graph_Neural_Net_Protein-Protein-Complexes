@@ -1,0 +1,1 @@
+{'explained_variance': -0.512209169643058, 'max_error': 19.81401316821575, 'mean_absolute_error': 6.450249945853747, 'mean_squared_error': 58.87503167778283, 'root_mean_squared_error': 7.673006690847, 'mean_squared_log_error': 'not computed', 'median_squared_log_error': 5.985971093177795, 'r2_score': -1.2314513388579038}

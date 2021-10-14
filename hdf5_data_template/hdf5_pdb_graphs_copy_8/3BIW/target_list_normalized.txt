@@ -1,0 +1,5 @@
+3BIW_water_complex_352w 0.8572
+3BIW_it0_complex_3347 0.7273
+3BIW_it0_complex_6930 0.1305
+3BIW_it1_complex_8 0.95325
+3BIW 0

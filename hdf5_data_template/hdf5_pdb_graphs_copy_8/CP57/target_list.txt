@@ -1,0 +1,5 @@
+CP57_water_complex_170w 17.908
+CP57_it0_complex_5016 19.008
+CP57_it0_complex_7089 3.1
+CP57_it1_complex_170 17.99
+CP57 0

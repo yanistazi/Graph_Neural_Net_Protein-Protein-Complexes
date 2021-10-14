@@ -1,0 +1,4 @@
+1EXB_water_complex_383w 18.187
+1EXB_it0_complex_802 19.191
+1EXB_it1_complex_334 9.323
+1EXB 0

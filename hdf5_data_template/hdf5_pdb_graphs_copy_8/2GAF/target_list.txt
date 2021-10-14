@@ -1,0 +1,11 @@
+2GAF_water_complex_150w 18.076
+2GAF_it0_complex_7222 16.551
+2GAF_it0_complex_4083 19.829
+2GAF_it0_complex_7349 16.587
+2GAF_it0_complex_3817 18.33
+2GAF_it0_complex_9980 4.91
+2GAF_it0_complex_7611 3.182
+2GAF_it0_complex_3592 4.061
+2GAF_it0_complex_1684 4.275
+2GAF_it1_complex_245 15.869
+2GAF 0

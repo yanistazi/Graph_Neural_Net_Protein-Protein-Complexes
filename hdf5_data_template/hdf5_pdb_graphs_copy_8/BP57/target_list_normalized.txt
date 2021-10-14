@@ -1,0 +1,4 @@
+BP57_water_complex_57w 0.5378000000000001
+BP57_it0_complex_2295 0.917
+BP57_it1_complex_398 0.95985
+BP57 0

@@ -1,0 +1,5 @@
+3H2V_water_complex_29w 0.64645
+3H2V_it0_complex_9200 0.67215
+3H2V_it0_complex_540 0.20049999999999998
+3H2V_it1_complex_251 0.61355
+3H2V 0

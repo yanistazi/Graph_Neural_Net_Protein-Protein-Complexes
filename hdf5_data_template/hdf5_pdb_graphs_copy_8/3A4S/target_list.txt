@@ -1,0 +1,4 @@
+3A4S_water_complex_36w 16.154
+3A4S_it0_complex_4441 17.605
+3A4S_it1_complex_78 18.249
+3A4S 0

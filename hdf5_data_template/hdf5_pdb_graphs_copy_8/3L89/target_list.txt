@@ -1,0 +1,4 @@
+3L89_water_complex_349w 6.485
+3L89_it0_complex_5844 19.769
+3L89_it1_complex_303 12.608
+3L89 0

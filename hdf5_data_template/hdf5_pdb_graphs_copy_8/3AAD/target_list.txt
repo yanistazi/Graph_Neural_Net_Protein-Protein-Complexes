@@ -1,0 +1,4 @@
+3AAD_water_complex_325w 12.248
+3AAD_it0_complex_4214 19.973
+3AAD_it1_complex_254 19.228
+3AAD 0
